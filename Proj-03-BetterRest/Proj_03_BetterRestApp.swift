@@ -11,7 +11,7 @@ import SwiftUI
 struct Proj_03_BetterRestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentViewML()
         }
     }
 }
